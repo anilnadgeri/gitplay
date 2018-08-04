@@ -1,1 +1,2 @@
 this is test file
+modified for feature 1
