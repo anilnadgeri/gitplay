@@ -1,6 +1,7 @@
 this is test file
 modified in master  
 modified for feature 1
+modified for feature 2
 
 
 
